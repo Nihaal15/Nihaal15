@@ -1,6 +1,10 @@
 <br clear="both">
 
-<h2 align="left">Nihaal15</h2>
+<h1 align="left">Nihaal15</h1>
+
+###
+
+<h3 align="left">Passionate crafting user-centric cross-platform apps for seamless digital experiences with Flutter ✌🏻</h3>
 
 ###
 
@@ -65,6 +69,9 @@
   </a>
   <a href="mailto:nihaalshirkar.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://nihaalshirkar15.web.app/" target="_blank">
+    <img src="https://github.com/Nihaal15/portfolio-v1/blob/master/public/output/icons/Icon-512.png?raw=true" width="40" height="40" alt="Portfolio logo"  />
   </a>
 </div>
 
