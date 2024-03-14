@@ -52,7 +52,7 @@
 <br clear="both">
 
 <div align="left">
-<a href="https://open.spotify.com/user/ct8yrz9bxp3o0kijyb5ss5vdz" target="_blank">
+<a href="https://open.spotify.com/user/ct8yrz9bxp3o0kijyb5ss5vdz" target="_blank" style="text-decoration: none;">
   <img src="https://github-spotify.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </a>
 </div>
@@ -64,16 +64,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nihaalshirkar15/" target="_blank">
+  <a href="https://www.linkedin.com/in/nihaalshirkar15/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/mr.nihu_15/" target="_blank">
+  <a href="https://www.instagram.com/mr.nihu_15/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:nihaalshirkar.dev@gmail.com" target="_blank">
+  <a href="mailto:nihaalshirkar.dev@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://nihaalshirkar15.web.app/" target="_blank">
+  <a href="https://nihaalshirkar15.web.app/" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/Nihaal15/portfolio-v1/blob/master/public/output/icons/Icon-512.png?raw=true" width="40" height="40" alt="Portfolio logo"  />
   </a>
 </div>
