@@ -4,7 +4,8 @@
 
 ###
 
-<h3 align="left">Passionate crafting user-centric cross-platform apps for seamless digital experiences with Flutter ✌🏻</h3>
+<h3 align="left">Passionate crafting user-centric cross-platform apps for seamless digital experiences with Flutter
+✌🏻</h3>
 
 ###
 
@@ -51,7 +52,9 @@
 <br clear="both">
 
 <div align="left">
+<a href="https://open.spotify.com/user/ct8yrz9bxp3o0kijyb5ss5vdz" target="_blank">
   <img src="https://github-spotify.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
+</a>
 </div>
 
 ###
